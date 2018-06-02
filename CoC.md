@@ -1,9 +1,14 @@
 # The SecureDrop Code of Conduct
 
-## Conduct
+Like the broader technical and activism communities as a whole, the SecureDrop team is made up of a mixture of staff and volunteers from all over the world, working on every aspect of our mission—including operations, software development, mentorship, and building connections with great people and organizations.
 
-**Contact / Moderation Team**:
-- heartsucker - [heartsucker@autistici.org](mailto:heartsucker@autistici.org)
+To work together effectively in a large, diverse and open community, we have a few ground rules that we expect everyone to adhere to, be it paid staff and board members, volunteers and event attendees; mentors, veterans, novices, or those seeking help and guidance.
+
+This isn’t an exhaustive list of things that you cannot do. Rather, take it in the spirit in which it’s intended—a guide to make it easier to enrich all of us and the communities in which we participate.
+
+This code of conduct applies to all spaces and events associated with SecureDrop. This includes physical offices, GitHub repositories, online chat systems, the Support Forum, SecureDrop hosted or sponsored events, and any other forums created by the SecureDrop community which our team uses for communication. In addition, we take violations of this code outside these spaces into account when determining a person's ability to participate within them.
+
+## Conduct
 
 * We are committed to providing a friendly, safe and welcoming environment for all, regardless of level of experience, gender identity and expression, sexual orientation, disability, personal appearance, body size, race, ethnicity, age, religion, nationality, or other similar characteristic.
 * On IRC, please avoid using overtly sexual nicknames or other nicknames that might detract from a friendly, safe and welcoming environment for all.
@@ -16,6 +21,10 @@
 
 ## Moderation
 
+**Contact / Moderation Team**:
+- Emmanuel Morales - [emmanuel@freedom.press](mailto:emmanuel@freedom.press)
+- Trevor Timm - [trevor@freedom.press](trevor@freedom.press)
+- heartsucker - [heartsucker@autistici.org](mailto:heartsucker@autistici.org)
 
 These are the policies for upholding our community's standards of conduct. If you feel that a thread needs moderation, please contact the Moderation Team.
 
