@@ -59,8 +59,9 @@ And if someone takes issue with something you said or did, resist the urge to be
 
 The enforcement policies listed above apply to all official SecureDrop venues; including official chat channels (Slack, Jitsi, Gitter); GitHub repositories; and all forums under [securedrop.club](https://securedrop.club). For other projects adopting the SecureDrop Code of Conduct, please contact the maintainers of those projects for enforcement. If you wish to use this code of conduct for your own project, consider explicitly mentioning your moderation policy or making a copy with your own moderation policy so as to avoid confusion.
 
-*Adapted from the [Rust CoC][rust-coc], [Node.js Policy on Trolling][node-policy] as well as the [Contributor Covenant v1.3.0][contributor-covenant].*
+*Adapted from the [Rust CoC][rust-coc], [Node.js Policy on Trolling][node-policy],[Contributor Covenant v1.3.0][contributor-covenant], and [Djanjo CoC][django-coc].*
 
 [rust-coc]: https://www.rust-lang.org/en-US/conduct.html
 [node-policy]: https://www.rust-lang.org/en-US/conduct.html
 [contributor-covenant]: https://www.rust-lang.org/en-US/conduct.html
+[django-coc]: https://www.djangoproject.com/conduct/
