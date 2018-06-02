@@ -15,7 +15,15 @@ This code of conduct applies to all spaces and events associated with SecureDrop
 * Please be kind and courteous. There's no need to be mean or rude.
 * Respect that people have differences of opinion and that every design or implementation choice carries a trade-off and numerous costs. There is seldom a right answer.
 * Please keep unstructured critique to a minimum. If you have solid ideas you want to experiment with, make a fork and see how it works.
-* We will exclude you from interaction if you insult, demean or harass anyone. That is not welcome behavior. We interpret the term "harassment" as including the definition in the <a href="http://citizencodeofconduct.org/">Citizen Code of Conduct</a>; if you have any lack of clarity about what might be included in that concept, please read their definition. In particular, we don't tolerate behavior that excludes people in socially marginalized groups.
+* Do not engage in harassment and other exclusionary behavior is not acceptable and should be reported. This includes but is not limited to:
+    * Violent threats or language directed against another person.
+    * Discriminatory jokes and language.
+    * Posting sexually suggestive, explicit or violent material.
+    * Posting (or threatening to post) other people’s personally identifying information (“doxing”).
+    * Personal insults, especially those using racist or sexist terms.
+    * Unwelcome sexual attention.
+    * Advocating for, or encouraging, any of the above behavior.
+    * Repeated harassment of others. In general, if someone asks you to stop, then stop.
 * Private harassment is also unacceptable. No matter who you are, if you feel you have been or are being harassed or made uncomfortable by a community member, please contact one of the channel ops or any of the Moderation Team immediately. Whether you're a regular contributor or a newcomer, we care about making this community a safe place for you and we've got your back.
 * Likewise any spamming, trolling, flaming, baiting or other attention-stealing behavior is not welcome.
 
