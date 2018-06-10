@@ -15,7 +15,7 @@ few ground rules that we expect everyone to adhere to, be it paid staff and
 board members, volunteers and event attendees; mentors, veterans, novices, or
 those seeking help and guidance.
 
-This isn’t an exhaustive list of things that you cannot do. Rather, take it in
+This isn't an exhaustive list of things that you cannot do. Rather, take it in
 the spirit in which it’s intended: a guide to make it easier to enrich all of
 us and the communities in which we participate.
 
@@ -25,3 +25,11 @@ systems, the Support Forum, SecureDrop hosted or sponsored events, and any other
 forums created by the SecureDrop community which our team uses for communication.
 In addition, we take violations of this code outside these spaces into account
 when determining a person's ability to participate within them.
+
+================================================================================
+Attribution
+================================================================================
+
+Parts of this code of conduct are derived from:
+
+    The Django Code of Conduct
