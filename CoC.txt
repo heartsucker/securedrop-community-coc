@@ -27,9 +27,42 @@ In addition, we take violations of this code outside these spaces into account
 when determining a person's ability to participate within them.
 
 ================================================================================
-Attribution
+Summary
 ================================================================================
 
-Parts of this code of conduct are derived from:
+The SecureDrop community should be a place where people feel safe and welcome.
+They should enjoy participating in discussions and contributing. To these ends,
+members of the community should:
 
+    Be friendly and patient
+
+    Assume good faith and good intentions
+
+    Be welcoming, considerate, and respectful
+
+    Be careful in the words they choose
+
+    Listen to each other, and communicate openly and honestly
+
+Members of the community should not:
+
+    Intimidate, harass, or insult each other
+
+    Follow the letter of this Code of Conduct while disregarding its spirit
+
+Members of the community should not hesitate to contact the Community Council if
+they feel someone has violated this Code of Conduct, or if they have questions
+or concerns.
+
+================================================================================
+License and Attribution
+================================================================================
+
+Parts of this code of conduct are derived from or inspired by:
+
+    The Citizen Code of Conduct
     The Django Code of Conduct
+    The Tor Project Code of Conduct
+
+This Code of Conduct is shared under a Creative Commons CC-BY-SA 4.0 International
+license.
