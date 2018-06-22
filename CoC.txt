@@ -133,6 +133,7 @@ Parts of this code of conduct are derived from or inspired by:
     The Citizen Code of Conduct
     The Django Code of Conduct
     The Tor Project Code of Conduct
+    The Freedom of the Press Foundation Code of Conduct
 
 This Code of Conduct is shared under a Creative Commons CC-BY-SA 4.0 International
 license.
