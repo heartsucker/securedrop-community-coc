@@ -58,7 +58,7 @@ or concerns.
 Behavioral Guidelines
 ================================================================================
 
-As a member of the community, we ask you to:
+As a member of the community, you are expected to:
 
 - Be friendly and patient. Your work will be used by other people, and you in
   turn will depend on the work of others. Any decision you take will affect
@@ -96,7 +96,7 @@ As a member of the community, we ask you to:
   be your best self. In doing so, you contribute the health and longevity of
   this community.
 
-As a member of the SecureDrop community, we ask you to never engage in the
+As a member of the SecureDrop community, you are expected to never engage in the
 following behaviors:
 
 - Intimidation, harassments, or insults.  This includes but is not limited to:
