@@ -88,6 +88,7 @@ As a member of the community, you are expected to:
   - Inappropriate names for user accounts, servers, files, repositories, etc.
   - Posting sexually explicit or violent material
   - Personal insults
+  - Misgendering or deadnaming
   - Unwelcome sexual attention
   - Advocating for, or encouraging, any of the above behavior
 
