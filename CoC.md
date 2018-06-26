@@ -3,10 +3,12 @@
 ## Preamble
 
 Like the broader technical and activism communities as a whole, the SecureDrop
-team is made up of a mixture of staff and volunteers from all over the world,
-working on every aspect of our mission—including operations, software
+Community is made up of a mixture of staff and volunteers from all over the world,
+engaged in various activities—including operations, software
 development, mentorship, and building connections with great people and
 organizations.
+All individuals who associate themselves with the SecureDrop Community are on equal footing, regardless of their affiliation with any specific organization.
+There is no hierarchy in the SecureDrop Community, we are organized horizontally.
 
 To work together effectively in a large, diverse and open community, we have a
 few ground rules that we expect everyone to adhere to, be it paid staff and
@@ -17,16 +19,16 @@ This isn't an exhaustive list of things that you cannot do. Rather, take it in
 the spirit in which it’s intended: a guide to make it easier to enrich all of
 us and the communities in which we participate.
 
-This code of conduct applies to all spaces and events associated with
-SecureDrop. This includes physical offices, GitHub repositories, online chat
+This code of conduct applies to all spaces and events under the responsibility of someone who belongs to the
+SecureDrop Community. This includes physical offices, git repositories, online chat
 systems, the Support Forum, SecureDrop hosted or sponsored events, and any other
-forums created by the SecureDrop community which our team uses for communication.
+forums created by the SecureDrop Community which are used for communication.
 In addition, we take violations of this code outside these spaces into account
 when determining a person's ability to participate within them.
 
 ## Summary
 
-The SecureDrop community should be a place where people feel safe and welcome.
+The SecureDrop Community should be a place where people feel safe and welcome.
 They should enjoy participating in discussions and contributing. To these ends,
 members of the community should:
 
