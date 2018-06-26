@@ -55,6 +55,77 @@ they feel someone has violated this Code of Conduct, or if they have questions
 or concerns.
 
 ================================================================================
+Behavioral Guidelines
+================================================================================
+
+As a member of the community, you are expected to:
+
+- Be friendly and patient. Your work will be used by other people, and you in
+  turn will depend on the work of others. Any decision you take will affect
+  human beings, and you should take those consequences into account when making
+  decisions. Remember that our community is international, and that the people
+  you interact with may be communicating with you in a language that is not
+  their native tongue.
+
+- Assume good faith and good intentions. Disagreements — both social and
+  technical — happen all the time. Our diverse backgrounds give us the ability
+  to see things from many different perspectives, but they can also lead to
+  misunderstandings. It is important that we resolve disagreements
+  constructively, and that we do not jump to conclusions about each other's
+  motives.
+
+- Be welcoming, considerate, and respectful. We strive to be a community that
+  welcomes and supports people of all backgrounds and identities. This includes,
+  but is not limited to, members of any race, ethnicity, culture, national
+  origin, color, immigration status, social and economic class, educational
+  level, sex, sexual orientation, gender identity and expression, age, size,
+  family status, political belief, religion and mental and physical ability.
+
+- Be careful in the words you choose. Exclusionary behavior is absolutely
+  unacceptable. This includes, but is not limited to:
+
+  - Discriminatory (e.g., racist or sexist) jokes and language
+  - Inappropriate names for user accounts, servers, files, repositories, etc.
+  - Posting sexually explicit or violent material
+  - Personal insults
+  - Misgendering or deadnaming
+  - Unwelcome sexual attention
+  - Advocating for, or encouraging, any of the above behavior
+
+- Listen and communicate openly and honestly. Yield the floor to
+  others, and help to make sure that everyone gets heard. In other words, try to
+  be your best self. In doing so, you contribute the health and longevity of
+  this community.
+
+As a member of the SecureDrop community, you are expected to never engage in the
+following behaviors:
+
+- Intimidation, harassments, or insults.  This includes but is not limited to:
+  - Physical intimidation or threats against someone's physical safety
+  - Obscene or intimidating gestures
+  - Stalking
+  - Demeaning another person
+  - Unwelcome following
+  - Enlisting the help of others, whether in person or online, in order to
+    target an individual
+  - Taking photographs, video, or audio recordings or recordings without consent
+  - Shouting
+  - Sustained disruption of talks and events
+  - Disruption of meetings
+  - Inappropriate physical contact
+  - Unwelcome sexual attention
+  - Posting (or threatening to post) other people's personally identifying
+    information ("doxing")
+  - Respect people's stated personal boundaries
+
+- Following the letter of this Code of Conduct while disregarding its spirit.
+  When judging whether certain behavior represents a violation of this code, we
+  will consider a violation in spirit (e.g., clearly behaving in a damaging or
+  obnoxious manner in a way not explicitly specified) to be no different from
+  any other violation of this code. That includes trolling and other forms of
+  consistently disruptive behavior.
+
+================================================================================
 License and Attribution
 ================================================================================
 
@@ -63,6 +134,8 @@ Parts of this code of conduct are derived from or inspired by:
     The Citizen Code of Conduct
     The Django Code of Conduct
     The Tor Project Code of Conduct
+    The OpenStack Foundation Community Code of Conduct
+    The Freedom of the Press Foundation Code of Conduct
 
 This Code of Conduct is shared under a Creative Commons CC-BY-SA 4.0 International
 license.
