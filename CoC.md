@@ -1,8 +1,6 @@
-================================================================================
-SecureDrop Community Code of Conduct
-================================================================================
+# SecureDrop Community Code of Conduct
 
-Preamble:
+## Preamble
 
 Like the broader technical and activism communities as a whole, the SecureDrop
 team is made up of a mixture of staff and volunteers from all over the world,
@@ -26,37 +24,28 @@ forums created by the SecureDrop community which our team uses for communication
 In addition, we take violations of this code outside these spaces into account
 when determining a person's ability to participate within them.
 
-================================================================================
-Summary
-================================================================================
+## Summary
 
 The SecureDrop community should be a place where people feel safe and welcome.
 They should enjoy participating in discussions and contributing. To these ends,
 members of the community should:
 
-    Be friendly and patient
-
-    Assume good faith and good intentions
-
-    Be welcoming, considerate, and respectful
-
-    Be careful in the words they choose
-
-    Listen to each other, and communicate openly and honestly
+- Be friendly and patient
+- Assume good faith and good intentions
+- Be welcoming, considerate, and respectful
+- Be careful in the words they choose
+- Listen to each other, and communicate openly and honestly
 
 Members of the community should not:
 
-    Intimidate, harass, or insult each other
-
-    Follow the letter of this Code of Conduct while disregarding its spirit
+- Intimidate, harass, or insult each other
+- Follow the letter of this Code of Conduct while disregarding its spirit
 
 Members of the community should not hesitate to contact the Community Council if
 they feel someone has violated this Code of Conduct, or if they have questions
 or concerns.
 
-================================================================================
-Behavioral Guidelines
-================================================================================
+## Behavioral Guidelines
 
 As a member of the community, you are expected to:
 
@@ -125,17 +114,15 @@ following behaviors:
   any other violation of this code. That includes trolling and other forms of
   consistently disruptive behavior.
 
-================================================================================
-License and Attribution
-================================================================================
+## License and Attribution
 
 Parts of this code of conduct are derived from or inspired by:
 
-    The Citizen Code of Conduct
-    The Django Code of Conduct
-    The Tor Project Code of Conduct
-    The OpenStack Foundation Community Code of Conduct
-    The Freedom of the Press Foundation Code of Conduct
+- The Citizen Code of Conduct
+- The Django Code of Conduct
+- The Tor Project Code of Conduct
+- The OpenStack Foundation Community Code of Conduct
+- The Freedom of the Press Foundation Code of Conduct
 
 This Code of Conduct is shared under a Creative Commons CC-BY-SA 4.0 International
 license.
