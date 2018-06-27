@@ -8,10 +8,10 @@ working on every aspect of our mission—including operations, software
 development, mentorship, and building connections with great people and
 organizations.
 
-To work together effectively in a large, diverse and open community, we have a
-few ground rules that we expect everyone to adhere to, be it paid staff and
-board members, volunteers and event attendees; mentors, veterans, novices, or
-those seeking help and guidance.
+To work together effectively in a large, diverse and open community, we have
+joined as individuals to craft a few ground rules that we expect everyone to
+adhere to, be it paid staff and board members, volunteers and event attendees;
+mentors, veterans, novices, or those seeking help and guidance.
 
 This isn't an exhaustive list of things that you cannot do. Rather, take it in
 the spirit in which it’s intended: a guide to make it easier to enrich all of
